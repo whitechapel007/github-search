@@ -1,0 +1,38 @@
+export default {
+  login: "whitechapel007",
+  id: 42420596,
+  node_id: "MDQ6VXNlcjQyNDIwNTk2",
+  avatar_url: "https://avatars.githubusercontent.com/u/42420596?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/whitechapel007",
+  html_url: "https://github.com/whitechapel007",
+  followers_url: "https://api.github.com/users/whitechapel007/followers",
+  following_url:
+    "https://api.github.com/users/whitechapel007/following{/other_user}",
+  gists_url: "https://api.github.com/users/whitechapel007/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/whitechapel007/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/whitechapel007/subscriptions",
+  organizations_url: "https://api.github.com/users/whitechapel007/orgs",
+  repos_url: "https://api.github.com/users/whitechapel007/repos",
+  events_url: "https://api.github.com/users/whitechapel007/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/whitechapel007/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Ememe Tochukwu Ebuka",
+  company: null,
+  blog: "",
+  location: "Lagos, Nigeria",
+  email: null,
+  hireable: true,
+  bio: "i am a software engineer on a mission to be better",
+  twitter_username: "ebuka_tc",
+  public_repos: 34,
+  public_gists: 0,
+  followers: 10,
+  following: 22,
+  created_at: "2018-08-15T20:16:50Z",
+  updated_at: "2022-06-23T17:27:26Z",
+};
